@@ -1,4 +1,4 @@
-#include "notes/5-button-buzzer.h"
+#include "programs/5-button-buzzer.h"
 
 void setup() {
   appSetup();
