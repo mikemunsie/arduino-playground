@@ -1,0 +1,6 @@
+Before connecting an LED, you will need a resistor (resists electricity as in the name) to help not power the LED too much
+  - Unit of resistance is called the Ohm
+  - We denote the values of resistors in kΩ (1,000 Ω) and MΩ (1,000,000 Ω). These are called kilo-ohms and mega-ohms.
+  - The positive side of the LED is the longer side
+    - Connect the resistor first so the LED doesn't burn out
+    - Positive first then negative
