@@ -4,3 +4,6 @@ Before connecting an LED, you will need a resistor (resists electricity as in th
   - The positive side of the LED is the longer side
     - Connect the resistor first so the LED doesn't burn out
     - Positive first then negative
+- Passive buzzer is way more fun than an active buzzer. The tones actually work nicer.
+- Tilt sensors (tilt ball switch) allow you to detect orientation or inclination
+- Plugging the power / ground into the breadboard gives power / ground to the whole row

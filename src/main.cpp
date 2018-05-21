@@ -1,4 +1,4 @@
-#include "programs/5-button-buzzer.h"
+#include "programs/9-ultrasonic-sensor/main.h"
 
 void setup() {
   appSetup();
